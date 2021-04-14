@@ -5,5 +5,5 @@ The banker’s algorithm is a resource allocation and deadlock avoidance algorit
 <br>
 ### Code is built with Java 
 ## Useful Links to follow with :
-https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/
-https://www.youtube.com/watch?v=T4f6b2S_Oz8
+1. https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/
+2. https://www.youtube.com/watch?v=T4f6b2S_Oz8
